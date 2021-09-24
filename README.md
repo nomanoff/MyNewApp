@@ -10,8 +10,8 @@
 
 ## 2. Install **pod** with this command: `pod install`.
 
-## Now, you can run both IOS and Android commands:
+## Now, you can run both iOS and Android commands:
 
-> IOS: `npx react-native run-ios`
+> iOS: `npx react-native run-ios`
 
 > Android: `npx react-native run-android`
