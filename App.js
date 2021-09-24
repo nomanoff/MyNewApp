@@ -5,7 +5,7 @@ function App() {
   return (
     <SafeAreaView>
       <View style={styles.container}>
-        <Text>Hello World</Text>
+        <Text>Hello React Native</Text>
       </View>
     </SafeAreaView>
   );
